@@ -2,8 +2,8 @@
 <resources>
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#2980b9</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#fdcb6e</color>
     <color name="colorText">#ecf0f1</color>
-    <color name="colorTrueButton">#27ae60</color>
-    <color name="colorFalseButton">#c0392b</color>
+    <color name="colorTrueButton">#0984e3</color>
+    <color name="colorFalseButton">#d63031</color>
 </resources>
